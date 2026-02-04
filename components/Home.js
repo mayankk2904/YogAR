@@ -95,7 +95,7 @@ export default function Home({ navigation }) {
               Yoga is the essence of all that is pure and is the means of realizing the divine within. ~ Swami Vivekanand
             </Text>
             <Text style={styles.heroText}>
-              Experience Yoga like never before - see 3D poses in real-time with augmented reality. Transform your practice with YogAR!
+              Experience Yoga like never before - see 3D poses in real-time with augmented reality. Transform your yoga practice with YogAR!
             </Text>
             <TouchableOpacity style={styles.readMoreButton}>
               <Text style={styles.readMoreText}>READ MORE</Text>

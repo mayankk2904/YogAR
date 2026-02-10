@@ -20,14 +20,14 @@ const yogaPoses = [
     category: "Standing",
     poses: [
       {
-        name: "Warrior I",
+        name: "Warrior I Pose",
         image:
           "https://yogapractice.com/wp-content/uploads/2020/07/The-Ultimate-Guide-To-Warrior-I-Pose-%E2%80%94-Virabhadrasana-I.jpg",
         description:
           "Warrior I is a foundational standing pose that builds strength and stamina while opening the hips and chest.",
       },
       {
-        name: "Warrior II",
+        name: "Warrior II Pose",
         image:
           "https://static.lessons.com/assets/images/content/lessons-warrior-ii-yoga-pose.jpeg",
         description:

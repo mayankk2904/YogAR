@@ -1,6 +1,6 @@
 # 🧘‍♂️ YogAR – Augmented Reality Yoga App
 
-YogAR is an **AR-based mobile application** that brings yoga into the real world by projecting **3D yoga poses** into the user’s environment with **real-time audio guidance**, helping users practice yoga correctly and interactively.
+YogAR is an **AR-based android mobile application** that brings yoga into the real world by projecting **3D yoga poses** into the user’s environment with **real-time audio guidance**, helping users practice yoga correctly and interactively.
 
 ---
 
@@ -24,5 +24,6 @@ YogAR is an **AR-based mobile application** that brings yoga into the real world
 
 - **React Native** – Cross-platform mobile development  
 - **Google AR** – Augmented Reality rendering and environment tracking  
-- **Blender** – 3D modeling of yoga poses  
+- **Blender** – 3D modeling of yoga poses
+- **Mixamo** - For exporting 3D models locally  
 - **Supabase** – Backend services and database management  

@@ -228,12 +228,12 @@ const RecommendationsScreen = ({ navigation }) => {
       inputType: 'number'
     },
     {
-      question: "And your weight in kilograms?",
+      question: "And your weight in kg?",
       field: 'weight',
       inputType: 'number'
     },
     {
-      question: "Which areas would you like to focus on? (Choose multiple)",
+      question: "Which body areas would you like to focus on? (Choose multiple)",
       field: 'targetAreas',
       inputType: 'multi-select',
       options: ['Arms', 'Legs', 'Core', 'Back', 'Flexibility', 'Balance']
